@@ -8,3 +8,7 @@ def ref_gen(stringLength=16):
 	print(ref_id)
 
 ref_gen()
+
+
+#Output
+H3yI-97PF-ubk2-Uv8V
